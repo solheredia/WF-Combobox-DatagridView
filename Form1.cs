@@ -36,7 +36,7 @@ namespace WF_Combobox_DatagridView
             double punitario;
             punitario = comboBox1.SelectedIndex;
             lblCantidad.Text = textBox1.Text;
-            //Prueba1
+            
 
             switch (id)
             {
