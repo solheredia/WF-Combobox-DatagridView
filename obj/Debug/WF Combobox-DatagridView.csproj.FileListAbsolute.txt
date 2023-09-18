@@ -1,0 +1,10 @@
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF Combobox-DatagridView.csproj.AssemblyReference.cache
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF_Combobox_DatagridView.Form1.resources
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF_Combobox_DatagridView.Properties.Resources.resources
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF Combobox-DatagridView.csproj.GenerateResource.cache
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF Combobox-DatagridView.csproj.CoreCompileInputs.cache
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\bin\Debug\WF Combobox-DatagridView.exe.config
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\bin\Debug\WF Combobox-DatagridView.exe
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\bin\Debug\WF Combobox-DatagridView.pdb
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF Combobox-DatagridView.exe
+C:\Users\Herrera\Desktop\Facultad sol\Ejercitacion\WF Combobox-DatagridView\obj\Debug\WF Combobox-DatagridView.pdb
